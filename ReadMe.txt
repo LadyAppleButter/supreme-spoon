@@ -1,3 +1,22 @@
+Full Design:
+https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
+
+Colors and Font:
+https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
+
+Wednesday 6 September 23 10:04pm
+For tonight, we are going to format the third container.
+
+Today:
+
+Container 3
+*formatted container 3; there will be revisions at the end but this is a promising start
+*changed cite to section; cite have specific formatting requirements. Which ( at least for this project) is beyond what we need. 
+*replace the word paragraph with the text located on the Full Design page
+*altered the heigth and width of the child element
+*left align section tag
+*centered the child element (both horizontally and vertically).
+
 Saturday 2 September 23 8:54pm
 
 Started the Landing page project of the Odin Foundation Course. 
