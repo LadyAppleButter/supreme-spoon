@@ -4,6 +4,31 @@ https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab0
 Colors and Font:
 https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
 
+
+Fri 8 Septermber 3:49pm
+For tonight, we are working on formatting the second container
+
+Today:
+
+**As stated before the current formatting will change as the project progresses. This is referring to the section tag. 
+**Look up how to position flexbox items on top of each other
+
+Container 2 html
+*added two additional child containers within the previous container 
+*removed caption tag and replaced it with section
+*placed the section tag on the outside of its respecitve div
+*renamed class caption to box
+*enclosed the header in its on flexbox; class some_info
+
+
+Container 3 css
+*created formatting for three new items within the container
+*positioned section tag under their respecitve div using position and messing with the x,y coordinates
+
+next time:
+mess with the postioning of the section tag
+work on container4
+
 Wednesday 6 September 23 10:04pm
 For tonight, we are going to format the third container.
 
