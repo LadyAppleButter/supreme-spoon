@@ -8,6 +8,47 @@ https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab0
 ----- Colors and Font ------
 https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
 
+____________________ TUES 19 SEPTEMBER 23 8:23pm ____________________
+
+For tonight, we are formatting container four and the footer.
+
+
+---------- UPDATE ----------
+
+--- landing_page.html ---  
+
+*General
+    **Added text and content to the respective tags
+*Container 4
+    **Rearrange the divs
+        ***button is now wrapped in its own div tag called container_button
+*Footer
+    **Added a div within the footer tag
+*Container 2
+    **Rearrange the divs
+        ***Each div and caption is wrapped in another div (total of four seperate div tags). Made it much easier to format the text under the div tag. 
+
+--- style.css --- 
+
+*Comment out a few items:
+    **universal button
+    **.container4 div
+    **.box section (previously used to format the captions)
+    **h3 (for now)
+*Added selectors:
+    **.container4_box (center the content and add needed spacing)
+    **.container_footer and .footer (format the footer section)
+    **.box_1, .box_2, .box_3, .box_4 (included both a div and a caption)
+    **.box_1 .one, .box_2 .two, .box_3 .three, .box_4 .four (adds formatting only to the div)
+*Edited the .box declarations 
+
+--- ReadMe.txt ---
+
+*Updated the file with current changes made to landing_page.html and style.css
+
+---------- NEXT TIME ----------
+
+*Begin adding the required style to the webpage
 
 ____________________ MON 18 SEPTEMBER 23 7:23pm ____________________
 
