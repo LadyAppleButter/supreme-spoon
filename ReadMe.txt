@@ -8,6 +8,16 @@ https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab0
 ----- Colors and Font ------
 https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
 
+
+____________________ THURS 21 SEPTEMBER 23 8:36pm ____________________
+
+We adding font size and font family to the webpage 
+
+---------- UPDATE ----------
+We have gotten to a point were we are stastified with the results. Is it one to one with the example, no. But it strongly resembles it. 
+
+It is late. Been at this for a few hours. Going to call it. We update the changes made to the html and css file tomorrow. 
+
 ____________________ TUES 19 SEPTEMBER 23 8:23pm ____________________
 
 For tonight, we are formatting container four and the footer.
